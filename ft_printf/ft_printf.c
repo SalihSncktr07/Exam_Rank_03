@@ -45,7 +45,8 @@ int ft_printf(char *str, ...)
     va_end (ptr);
     return (len);
 }
-int main()
-{
-    ft_printf("Hexadecimal for %d is %x\n", 42, 42);
-}
+
+// int main()
+// {
+//     ft_printf("Hexadecimal for %d is %x\n", 42, 42);
+// }
