@@ -53,6 +53,10 @@ int ft_printf(const char *str, ... )
 
 // int main()
 // {
-//     ft_printf("Magic %s is %d", "number", 42);
-//     ft_printf("\nHexadecimal for %d is %x", 42, 42);
+//     ft_printf("Magic %s is %d try %x", "number", 42, 16);
+//     ft_printf("\n%d\n", 34);
+//     ft_printf("%d\n", -34);
+//     ft_printf("%x\n", 10);
+//     ft_printf("%s\n", "salih");
+//     ft_printf("alsancak");
 // }
